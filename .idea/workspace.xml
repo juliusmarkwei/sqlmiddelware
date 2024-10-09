@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f283bd22-fd1f-48b6-9fa6-f33808d0c976" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlquery/factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/863a0f96-7838-4ef5-bd7b-52573bd0dc57.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/863a0f96-7838-4ef5-bd7b-52573bd0dc57.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0ce6881-6d7f-4ed7-a358-cefb5e0c467d.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b0ce6881-6d7f-4ed7-a358-cefb5e0c467d/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sqlquery/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlquery/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728488557652</updated>
       <workItem from="1728488562771" duration="6069000" />
-      <workItem from="1728496169964" duration="369000" />
+      <workItem from="1728496169964" duration="1580000" />
     </task>
     <servers />
   </component>
