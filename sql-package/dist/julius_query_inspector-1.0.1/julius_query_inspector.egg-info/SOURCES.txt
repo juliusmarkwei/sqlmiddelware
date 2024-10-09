@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+julius-query-inspector/__init__.py
+julius-query-inspector/middleware.py
+julius_query_inspector.egg-info/PKG-INFO
+julius_query_inspector.egg-info/SOURCES.txt
+julius_query_inspector.egg-info/dependency_links.txt
+julius_query_inspector.egg-info/requires.txt
+julius_query_inspector.egg-info/top_level.txt
